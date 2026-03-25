@@ -1,0 +1,49 @@
+
+body {
+  background-color: #80e1ee; 
+  display: flex;        
+  justify-content: center;  
+  align-items: center;       
+  min-height: 100vh;         
+  padding: 20px;             
+}
+
+#contador {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 50px;
+}
+#app {
+  background-color: #16578b; 
+  border-radius: 16px;       
+  padding: 40px;             
+  max-width: 500px;          
+  width: 100%;               
+  color: #eee;               
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5); 
+}
+
+h1 {
+  font-size: 1.8rem;    
+  margin-bottom: 8px;  
+  color: #f4f3f8;       
+}
+
+
+#btnIncrementar {
+    font-size: 1rem;
+    margin: 60px;
+    padding: 15px 30px;
+    background-color: #71c1db;
+    cursor: pointer;  
+    border-radius: 10px;
+}
+#btnDecrementar {
+    font-size: 1rem;
+    margin: 20px;
+    padding: 15px 30px;
+    background-color: #71c1db;
+    cursor: pointer; 
+    border-radius: 10px; 
+}
+
